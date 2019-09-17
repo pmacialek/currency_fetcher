@@ -1,3 +1,5 @@
+/* NOTE: change schema name */
+
 CREATE TABLE IF NOT EXISTS gimphoto_test_przemek.currency_rates (
 	currencyId INT AUTO_INCREMENT,
 	exchangeRateDate DATE,
